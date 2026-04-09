@@ -1,13 +1,17 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: langgraph-deployer
+description: TypeScript tool for deploying LangGraph agents
 img:
 importance: 3
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
+A TypeScript-based tool for deploying LangGraph agents to production environments.
+
+**Tech Stack:** TypeScript, LangGraph
+
+[View on GitHub](https://github.com/bmoir23/langgraph-deployer)
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

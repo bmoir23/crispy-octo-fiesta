@@ -1,13 +1,17 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Chat-features-previews
+description: Full-stack chat server for preview features
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
+A full-stack chat server used for implementing and previewing new chat features before they reach production.
+
+**Tech Stack:** TypeScript, Node.js, WebSockets
+
+[View on GitHub](https://github.com/bmoir23/Chat-features-previews)
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
