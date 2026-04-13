@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: syncc-liinkd-frontend
+description: Social linking application frontend
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/bmoir23/syncc-liinkd-frontend
 importance: 3
 category: work
 ---
